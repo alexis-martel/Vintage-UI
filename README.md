@@ -77,13 +77,13 @@ This registration screen is from Thorsten Lemke's GraphicConverter graphics util
 
 ![Screenshot](Mac%20OS%208/Apple%20Mac%20OS%208.1.png "Apple Mac OS 8 Screenshot")
 
-This splash screen is from Apple's Mac OS operating system.
+This *About* window is from Apple's Mac OS operating system.
 
 #### Microsoft Word
 
 ![Screenshot](Mac%20OS%208/Microsoft%20Word%205.1.png "Microsoft Word Screenshot")
 
-This splash screen is from Microsoft's Word word processor.
+This *About* window is from Microsoft's Word word processor.
 
 ### Mac OS 9
 
@@ -174,13 +174,14 @@ This splash screen is from Netscape's Navigator web browser.
 #### Nisus Writer
 
 ![Screenshot](Mac%20OS%209/Nisus%20Writer.png "Nisus Writer Screenshot")
+
 This registration screen is from Nisus's Writer document processor.
 
 #### Raine Storm Softworks Black Night
 
 ![Screenshot](Mac%20OS%209/Raine%20Storm%20Softworks%20Black%20Night%201.0.7.png "Raine Storm Softworks Black Night Screenshot")
 
-This splash screen is from Raine Storm's Black Night application.
+This registration screen is from Raine Storm's Black Night application.
 
 #### Scott Berfield Speedometer
 
@@ -200,13 +201,13 @@ This splash screen is from *Unknown*'s Kaleidoscope system extension.
 
 ![Screenshot](Windows%201%20(Premiere%20Edition)/Microsoft%20Notepad%201.01.png "Microsoft Notepad Screenshot")
 
-This splash screen is from Microsoft's Notepad text editor.
+This *About* window is from Microsoft's Notepad text editor.
 
 #### Microsoft Paint
 
 ![Screenshot](Windows%201%20(Premiere%20Edition)/Microsoft%20Paint%201.01.png "Microsoft Paint Screenshot")
 
-This splash screen is from Microsoft's Paint graphics editor.
+This *About* window is from Microsoft's Paint graphics editor.
 
 ### Windows 3
 
@@ -214,19 +215,19 @@ This splash screen is from Microsoft's Paint graphics editor.
 
 ![Screenshot](Windows%203/Microsoft%20Control%20Panel%203.0.png "Microsoft Control Panel Screenshot")
 
-This splash screen is from Microsoft's Control Panel utility.
+This *About* window is from Microsoft's Control Panel utility.
 
 #### Microsoft Solitaire
 
 ![Screenshot](Windows%203/Microsoft%20Solitaire%203.0.png "Microsoft Solitaire Screenshot")
 
-This splash screen is from Microsoft's Solitaire utility.
+This *About* window is from Microsoft's Solitaire game.
 
 #### Microsoft Windows
 
 ![Screenshot](Windows%203/Microsoft%20Windows%203.0.png "Microsoft Windows Screenshot")
 
-This splash screen is from Microsoft's Windows operating system.
+This *About* window is from Microsoft's Windows operating system.
 
 ### Windows 95
 
@@ -234,7 +235,7 @@ This splash screen is from Microsoft's Windows operating system.
 
 ![Screenshot](Windows%2095/Microsoft%20Windows%2095.png "Microsoft Windows Screenshot")
 
-This splash screen is from Microsoft's Windows operating system.
+This *About* window is from Microsoft's Windows operating system.
 
 ### SerenityOS
 
@@ -242,7 +243,7 @@ This splash screen is from Microsoft's Windows operating system.
 
 ![Screenshot](SerenityOS/SerenityOS%20SerenityOS%201.0.png "SerenityOS Screenshot")
 
-This splash screen is from SerenityOS's SerenityOS operating system.
+This *About* window is from SerenityOS's SerenityOS operating system.
 
 ## Disclaimer
 
