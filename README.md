@@ -226,7 +226,7 @@ This splash screen is from Microsoft's Solitaire utility.
 
 ![Screenshot](Windows%203/Microsoft%20Windows%203.0.png "Microsoft Windows Screenshot")
 
-This splash screen is from Microsoft's Windows utility.
+This splash screen is from Microsoft's Windows operating system.
 
 ### Windows 95
 
@@ -234,7 +234,15 @@ This splash screen is from Microsoft's Windows utility.
 
 ![Screenshot](Windows%2095/Microsoft%20Windows%2095.png "Microsoft Windows Screenshot")
 
-This splash screen is from Microsoft's Windows utility.
+This splash screen is from Microsoft's Windows operating system.
+
+### SerenityOS
+
+#### SerenityOS
+
+![Screenshot](SerenityOS/SerenityOS%20SerenityOS%201.0.png "SerenityOS Screenshot")
+
+This splash screen is from SerenityOS's SerenityOS operating system.
 
 ## Disclaimer
 
